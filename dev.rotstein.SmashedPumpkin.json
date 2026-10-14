@@ -16,7 +16,6 @@
     "--socket=wayland",
     "--socket=fallback-x11",
     "--device=dri",
-    "--talk-name=org.freedesktop.secrets",
     "--talk-name=org.kde.StatusNotifierWatcher",
     "--env=JAVA_HOME=/app/jre",
     "--env=JDK_HOME=/app/jre",
